@@ -6,4 +6,4 @@ A simple plugin which can calculate diff in two dates.
 
 This plugin was initially extracted from the docs of Redbud Project.
 
-*There is only Chinese edition right now. L10n is coming in the later version.*
+*There is only Chinese edition right now. I'm sorry for that. L10n is coming in the later version.*
